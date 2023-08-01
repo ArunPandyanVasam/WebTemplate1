@@ -1,8 +1,12 @@
 #wrapper {
-    width: 750px;
-    margin: auto;
+
+    margin-top: 50px;
 }
 
 #menu_bar {
     background-color: aquamarine;
+}
+
+body {
+    background-image: url(../_images/background.jpg);
 }
