@@ -64,3 +64,11 @@ footer {
     margin-left: 10px;
     padding-top: 15px;
 }
+
+#heading {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+  }
